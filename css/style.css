@@ -1,0 +1,54 @@
+.navbar-brand{
+ font-weight: bolder;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+
+.navbar-brand span{
+    color:blueviolet;
+}
+
+.info-text{
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.info{
+    font-family: 'Consolas';
+}
+
+.skill{
+    font-family: 'Consolas';
+}
+.myskill{
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.leanguage{
+    font-family: 'Consolas';
+}
+.myleanguage{
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.name{
+    font-family: 'Consolas';
+    color:white;
+    font-size: 50px;
+}
+.lname{
+    font-weight: bolder;
+}
+
+.education-text{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.skill-area{
+    font-family: 'Consolas';
+    font-weight: bolder;
+    font-size: 30px;
+}
